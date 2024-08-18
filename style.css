@@ -1,0 +1,72 @@
+body{
+    line-height: 1.8;
+    margin: 20px auto;
+    padding: 20px;
+    width: 700px;
+    height: 100vh;
+    background-color: rgba(14, 17, 27, 0.89);
+    vertical-align: middle;
+    font-family: sans-serif;
+}
+main{
+    
+    margin: 100px auto;
+    width: 400px;
+    height: auto;
+   
+}
+
+form{
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgba(34, 11, 240, 0.361);
+    box-shadow: 0 0 2px black;
+}
+
+fieldset{
+    border: 0px;
+    padding: 15px;
+    text-align: left;
+    color: rgb(203, 210, 216);
+}
+
+legend{
+    text-align: left;
+}
+
+label{
+    font-weight: bold;
+    text-align: left;
+    font-size: 14px;
+}
+
+input{
+    background-color: aliceblue;
+    width: 300px;
+    height: 35px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+
+.input-data{
+    width: 100px;
+}
+
+h3{
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+button{
+    margin-top: 20px;
+    color: aliceblue;
+    background-color: rgba(34, 11, 240, 0.361);
+    font-size: 16px;
+    font-weight: 400;
+    border: 2px solid gray;
+    border-radius: 11px;
+    margin-left: 240px;
+    height: 30px;
+    width: 115px;
+}
